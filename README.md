@@ -100,19 +100,7 @@ House-Price-Prediction/
 
 ![Feature Importance](images/feature_importance.png)## Application
 
-![App](images/app_home.png)
 
-## Prediction Example
-
-![Prediction](images/prediction.png)
-
-## Correlation Heatmap
-
-![Heatmap](images/heatmap.png)
-
-## Feature Importance
-
-![Feature Importance](images/feature_importance.png)
 
 ## 👨‍💻 Author
 
